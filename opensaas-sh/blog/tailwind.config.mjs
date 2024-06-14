@@ -1,6 +1,7 @@
 import starlightPlugin from "@astrojs/starlight-tailwind";
 import colors from "tailwindcss/colors";
 
+
 const yellow = colors.yellow
 const gray = colors.gray
 
